@@ -37,11 +37,11 @@ dc：bitzhibaixiao <br>
 | **比特币峰哥** | 征集中 |  | 30%比例，1人征集中；20%比例，2人征集中；10%比例，4人征集中 |
 
 ### 怎么兑换数据源
-1: 联系https://t.me/baixiaoshengzhuli 获得平台账号 <br>
+1: 联系https://t.me/web3event_bus 获得平台账号 <br>
 2: 从上架中的数据源中挑选，找小助理把你挑选的数据源配置到你账号下的广场区 <br>
 
 ### 怎么发布数据源
-1: 联系https://t.me/baixiaoshengzhuli 获得平台账号 <br>
+1: 联系https://t.me/web3event_bus 获得平台账号 <br>
 2: 在平台上登录账号，并配置数据源，把数据源截图，原价，和平台发布价格发小助理，小助理会更新到‘上架中数据源’ <br>
 
 ### 什么是EBS
