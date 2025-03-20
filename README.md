@@ -1,7 +1,7 @@
 # web信息工厂
 工厂地址：http://eventbus.btc1688.pro/ <br>
 工厂账号：目前是要邀请制，不支持自注册 <br>
-tg联系方式：https://t.me/web3xianyu <br>
+tg联系方式：https://t.me/web3event_bus <br>
 dc：bitzhibaixiao <br>
 ## 数据广场
 **每次兑换的数据源有多久？**：数据源都是按月进行上架的  <br>
